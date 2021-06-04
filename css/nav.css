@@ -1,14 +1,14 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: #909e84;
+    background-color: #e8b38c;
     overflow: auto;
 }
 
 .topnav a {
     float: left;
     display: block;
-    color: #e8b38c;
+    color: #909e84;
     text-align: center;
     padding: 12px 12px;
     text-decoration: none;
