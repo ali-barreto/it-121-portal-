@@ -1,6 +1,8 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+</style>;
 
 html {
     background-color: #e8b38c;
