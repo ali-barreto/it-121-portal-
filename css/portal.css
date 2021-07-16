@@ -52,8 +52,9 @@ a {
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: white;
     text-decoration: none;
+    text-color: black
 }
 
 footer {
