@@ -19,8 +19,9 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #f4e6bf;
     line-height: 2.5em;
+ 
 }
 
 main.wrapper {
@@ -30,12 +31,18 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
+    background: #a2897b
+    text-color: #f4e6bf
+        
 }
 
 h2,h3 {
     font-weight: normal;
     margin-left: 1em;
+    background: #a2897b
     line-height: 1em;
+    text-color: #f4e6bf
+       
 }
 
 a {
